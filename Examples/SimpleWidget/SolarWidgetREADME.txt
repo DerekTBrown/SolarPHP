@@ -1,0 +1,1 @@
+In order to use Solar Widget, load SolarWidget.php onto your PHP compatible server!  That's all there is to it!
